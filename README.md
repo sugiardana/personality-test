@@ -1,6 +1,6 @@
 # 🎈 MSKP Personality Test
 
-A simple Streamlit app to predict personality (Melankolis, Sanguinis, Kloris, Plegmatis)!
+A simple Streamlit app to predict personality (Melankolis, Sanguinis, Koleris, Plegmatis)!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mskp-personality-test.streamlit.app/)
 
